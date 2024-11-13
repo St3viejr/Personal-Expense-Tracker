@@ -1,5 +1,9 @@
 # Personal-Expense-Tracker
-CSI 2300 - Personal Expense Tracker application
+•	Project: Personal Expense Tracker
+
+•	Team name: C0de-Blood3d
+
+•	Team members: Estevan R., Domenic A.
 
 Description: 
   
