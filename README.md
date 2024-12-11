@@ -5,7 +5,7 @@
 
 •	Team members: Estevan R., Domenic A.
 
-## Description: 
+## Description 
   
   What are you trying to build?:
     A GUI application that allows users to track income and expenses while displaying a chart to visualize and set financial 		goals.
