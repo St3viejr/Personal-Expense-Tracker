@@ -5,7 +5,7 @@
 
 •	Team members: Estevan R., Domenic A.
 
-##Description: 
+## Description: 
   
   What are you trying to build?:
     A GUI application that allows users to track income and expenses while displaying a chart to visualize and set financial 		goals.
@@ -23,30 +23,30 @@ Plan and estimate effort:
     The plan is to begin building the backend for the application, and then the GUI to be able to use the Java file to display the methods within the class to allow the user to interact with the application. We may split the backend and GUI assisting each other when necessary.
 
 
-# **User Manual**
+# User Manual
 
-## **How to Use the Personal Expense Tracker Application**
+## How to Use the Personal Expense Tracker Application
 
-### **Getting Started**
-1. **Launching the Application**:
+### Getting Started
+1. Launching the Application:
    - Start the application by double-clicking the executable file or running it from your Java IDE.
    - Ensure the JavaFX runtime components are installed and configured correctly.
 
-2. **Main Dashboard**:
+2. Main Dashboard:
    - The main dashboard provides access to key features, including:
      - Setting an estimated budget.
      - Adding and managing transactions.
      - Viewing a financial summary.
 
-### **Features and Navigation**
+### Features and Navigation
 
-#### **1. Setting Up a Budget**
+#### 1. Setting Up a Budget
    - Go to the "Budget" section.
    - Enter your planned income and expenses.
    - Specify a savings goal.
    - Click "Save Budget" to store your entries.
 
-#### **2. Recording Transactions**
+#### 2. Recording Transactions
    - Navigate to the "Transactions" section.
    - Add transactions by providing:
      - **Type** (Income or Expense).
@@ -54,25 +54,25 @@ Plan and estimate effort:
      - **Description** (optional).
    - Click "Add Transaction" to save the details.
 
-#### **3. Analyzing Financial Data**
+#### 3. Analyzing Financial Data
    - Open the "Charts" section.
    - Use the **Estimated Budget Chart** to view planned income and expenses.
    - Review the **Transaction Chart** to see actual income and spending patterns.
    - Use the visual insights to make informed financial decisions.
 
-#### **4. Updating the Budget**
+#### 4. Updating the Budget
    - Return to the "Budget" section to modify your entries.
    - Adjust income, expenses, or the savings goal as needed.
    - Save the updates to keep your plan current.
 
-### **Best Practices**
+### Best Practices
 - Regularly update your transactions to maintain accurate records.
 - Periodically review your savings goal to stay aligned with financial objectives.
 - Use chart insights to identify and address spending trends.
 
 ---
 
-### **Setup and Deployment**
+### Setup and Deployment
 1. Install the Java Development Kit (JDK) version 17 or higher.
 2. Include JavaFX libraries in your project.
 3. Compile the application in your Java IDE (e.g., IntelliJ IDEA, Eclipse).
